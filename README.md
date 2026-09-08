@@ -25,5 +25,5 @@ The project serves as a base for testing code optimization, experimenting with m
 ## How to run selected algorithms
 1. Clone the repository to your drive.
 2. Open the `CPP-Algorithms-Collection.slnx` file in Visual Studio.
-3. In the *Solution Explorer* window, right-click on the project you're interested in (e.g., `Sieve of Eratosthenes`) and select **"Set as StartUp Project"**.
+3. In the *Solution Explorer* window, right-click on the project you're interested in (e.g., `Sito Erastotenesa`) and select **"Set as StartUp Project"**.
 4. Compile and run (F5).
