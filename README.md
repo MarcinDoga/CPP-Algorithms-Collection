@@ -1,5 +1,6 @@
 # C++ Algorithms & Data Structures Collection
 [Polski](./README_PL.md)
+
 A collection of my own implementations of classic algorithms, data structures, and math-logical programs written in C++ over the past 6 years.
 The project serves as a base for testing code optimization, experimenting with memory management, and exploring advanced language mechanisms.
 ## Main categories of algorithms
