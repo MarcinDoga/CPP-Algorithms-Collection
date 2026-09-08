@@ -1,1 +1,29 @@
-<Solution />
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Algorytm Euklidesa/Algorytm Euklidesa/Algorytm Euklidesa.vcxproj" Id="61899669-f36f-435c-b269-8a06553c7b6f" />
+  <Project Path="Ciąg Fibonacciego Suma/Ciąg Fibonacciego Suma/Ciąg Fibonacciego Suma.vcxproj" Id="6b457eae-c919-44cb-b493-c2e6db72b7b3" />
+  <Project Path="Ciąg Fibonacciego wiele wartosci/Ciąg Fibonacciego wiele wartosci/Ciąg Fibonacciego wiele wartosci.vcxproj" Id="5f3e4bc6-7b2c-4bae-b745-ed37f264fc4c" />
+  <Project Path="Ciąg rosnąco malejący/Ciąg rosnąco malejący/Ciąg rosnąco malejący.vcxproj" Id="3577c955-573f-4738-aa1e-4c65dfc48a70" />
+  <Project Path="Ciąg Tribonacciego/Ciąg Tribonacciego/Ciąg Tribonacciego.vcxproj" Id="8ca5650b-d347-4151-9f92-5625f7c16dad" />
+  <Project Path="Ciągi Liczbowe/Ciągi Liczbowe/Ciągi Liczbowe.vcxproj" Id="3d187f7f-f53a-43c4-b159-12f0926f3be7" />
+  <Project Path="Limes Interpretation/Limes Interpretation/Limes Interpretation.vcxproj" Id="4206e547-b43b-4afc-9af9-51cd98ab539b" />
+  <Project Path="Nieparzysty skrót/Nieparzysty skrót/Nieparzysty skrót.vcxproj" Id="1507f933-c15e-4ef4-b5c8-8fbbdd265253" />
+  <Project Path="RNGenerator/RNGenerator/RNGenerator.vcxproj" Id="78cb8fe8-4e75-458d-8773-c9466e64bfd9" />
+  <Project Path="Rosnąco malejący 2/Rosnąco malejący 2/Rosnąco malejący 2.vcxproj" Id="fcec71b7-96ef-486c-b350-2ea22f511b5a" />
+  <Project Path="Rosnąco malejący 3/Rosnąco malejący 3/Rosnąco malejący 3.vcxproj" Id="053d9913-c1b2-4a55-927c-43d3b2a45ab1" />
+  <Project Path="Rosnąco Malejący Max i Pozycja/Rosnąco Malejący Max i Pozycja/Rosnąco Malejący Max i Pozycja.vcxproj" Id="9e2086ee-fcc1-46bc-a0df-068e64bb1b91" />
+  <Project Path="Rosnąco malejący z pliku/Rosnąco malejący z pliku/Rosnąco malejący z pliku.vcxproj" Id="1e9f569d-5078-49cb-a00d-b9b0bb4bc66e" />
+  <Project Path="Silnia/Silnia Iteracja/Silnia Iteracja.vcxproj" Id="2381546d-a896-476b-a11e-c7b620b8bf2b" />
+  <Project Path="Silnia/Silnia/Silnia.vcxproj" Id="af246f59-590f-4bf3-81b4-88d28a222782" />
+  <Project Path="Sito Eratostenesa/Sito Eratostenesa/Sito Eratostenesa.vcxproj" Id="40770b6f-2998-4410-be0a-1eba389760cc" />
+  <Project Path="Suma Segmentów Algorytm Kadanea/Suma Segmentów Algorytm Kadanea/Suma Segmentów Algorytm Kadanea.vcxproj" Id="3e8c860c-1749-4a48-b2a4-f5e685d68496" />
+  <Project Path="Suma Segmentów/Suma Segmentów/Suma Segmentów.vcxproj" Id="cc548890-0dcd-408c-a898-7c2dde95bf2b" />
+  <Project Path="Tablica dwu wymiarowa/Tablica dwu wymiarowa/Tablica dwu wymiarowa.vcxproj" Id="1e7552d1-97cc-45bf-b644-685ee2cd4130" />
+  <Project Path="Tablica jedno wymiarowa/Tablica jedno wymiarowa/Tablica jedno wymiarowa.vcxproj" Id="9f76e1ea-68f6-4f7f-b889-170dff55a5e2" />
+  <Project Path="Wzór Fibonacciego pętla/Wzór Fibonacciego pętla/Wzór Fibonacciego pętla.vcxproj" Id="b2bb64de-cad0-4c56-9ec3-5c3c3009befc" />
+  <Project Path="Wzór Fibonacciego/Wzór Fibonacciego/Wzór Fibonacciego.vcxproj" Id="e63431b9-d26a-4fe2-98f1-abe224ff9c02" />
+  <Project Path="Złota Liczba/Złota Liczba/Złota Liczba.vcxproj" Id="5485232e-5e03-4d2a-8445-960579e06caf" />
+</Solution>

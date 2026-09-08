@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RNGenerator/RNGenerator.vcxproj" Id="78cb8fe8-4e75-458d-8773-c9466e64bfd9" />
+</Solution>
